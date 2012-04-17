@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dice</string>
+    <string name="die1">Die #1</string>
+    <string name="die2">Die #2</string>
+    <string name="rolldice">Roll Dice</string>
+    <string name="hint">Click on one die to roll itor on the center icon to roll both.</string>
+
+</resources>

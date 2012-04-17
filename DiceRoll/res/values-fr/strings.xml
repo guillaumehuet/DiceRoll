@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dés</string>
+    <string name="die1">Dé n°1</string>
+    <string name="die2">Dé n°2</string>
+    <string name="rolldice">Lancer les dés</string>
+    <string name="hint">Cliquez sur un dé pour le lancer ou sur l\'icone au centre pour lancer les deux.</string>
+
+</resources>
